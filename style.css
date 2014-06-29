@@ -7,9 +7,7 @@
  *
  */
 
-html {} 
-
-li {
+html {} li {
     margin-bottom: 20px;
 }
 ul {
@@ -17,4 +15,14 @@ ul {
 }
 .masthead-brand {
     font-size: 2em;
+}
+.lead {
+    margin-bottom: 30px;
+}
+a {
+    text-decoration: none;
+}
+
+.btn {
+    border-radius: 5px;
 }
