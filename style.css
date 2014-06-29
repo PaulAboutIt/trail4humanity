@@ -7,7 +7,7 @@
  *
  */
 
-html {} li {
+html, body { margin:0px} li {
     margin-bottom: 20px;
 }
 ul {
