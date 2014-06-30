@@ -34,6 +34,11 @@ a {
     border-radius: 5px;
 }
 
+.lead.btns{
+    float: left;
+    width: 33%;
+}
+
 inner.cover {
     padding-bottom: 80px;
 }
