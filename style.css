@@ -45,3 +45,7 @@ inner.cover {
 .cover-heading.home {
     margin-top: 80px;
 }
+.masthead-nav li {
+    padding: 7px;
+}
+.btn-default a{color:#333 !important;}
