@@ -43,9 +43,13 @@ inner.cover {
     padding-bottom: 80px;
 }
 .cover-heading.home {
-    margin-top: 80px;
+    margin-top: 20px;
 }
 .masthead-nav li {
     padding: 7px;
+}
+.banner {
+    padding-top: 120px;
+    max-width: 640px;
 }
 .btn-default a{color:#333 !important;}
